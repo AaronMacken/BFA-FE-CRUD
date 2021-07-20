@@ -1,0 +1,11 @@
+.formSection {
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .formSection h1 {
+    text-align: center;
+  }
+  

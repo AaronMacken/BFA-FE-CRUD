@@ -1,0 +1,12 @@
+.footer {
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+    letter-spacing: 1px;
+    line-height: 2;
+    background-color: #333;
+    color: #fff;
+}
